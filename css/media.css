@@ -1,0 +1,140 @@
+@media(max-width: 1199px){
+  
+}
+@media(max-width: 991px){
+  .headphone-section img {
+    max-width: 490px;
+    margin: 0 -65px;
+   }
+  .feature h2 {
+    font-size: 20px;
+     }
+     
+     .extra img {
+    position: absolute;
+    margin-top: 98%;
+    min-width: 200%;
+    right: -100px;
+    top: -65px;
+    }
+    .feature {
+    margin: 35px 0;
+     }
+     p {
+    font-size: 13px;
+       }
+       .lol, .helo {
+    padding: 100px 0;
+    padding-bottom: 0;
+     }footer {
+    padding: 30px 0;
+    }
+    .lola li {
+    color: #006cce;
+    list-style: none;
+    padding-top: 6px;
+    font-size: 16px;
+   }
+}     
+
+@media(max-width: 767px){
+  .w-75 {
+    width: 75%!important;
+    margin-left: 0px;
+    padding-bottom: 10px;
+    }
+     .headphone-section img {
+    max-width: 490px;
+   }
+   h1 {
+    font-size: 30px;
+    }
+    .feature h2 {
+    font-size: 23px;
+    margin: 10px 0;
+    }
+p {
+    font-size: 14px;
+    text-align: initial;
+     }
+   h1 {
+    font-size: 34px;
+     }
+     .extra img {
+    position: absolute;
+    top: 115px;
+    min-width: 300%;
+    right: -145px;
+    }
+    .lol, .helo {
+    padding: 60px 0;
+    padding-bottom: 0;
+    }
+    .footer ul li a {
+    font-size: 16px;
+   }
+}
+
+@media(max-width: 660px){
+  .headphone-section img {
+    max-width: 450px;
+    }
+    .headphone-section img {
+    max-width: 400px;
+     }
+     p {
+    font-size: 14px;
+    text-align: inherit;
+    }
+}
+@media(max-width: 575px){
+  .headphone-section img {
+    max-width: 300px;
+      }
+      p {
+    font-size: 13px;
+   }
+   h1 {
+    font-size: 23px;
+    }
+p {
+    font-size: 14px;
+    text-align: initial;
+    }
+    .extra img {
+    min-width: 100%;
+    margin-top: -30px;
+    right: 0;
+    }
+    .helo h1 {
+    font-size: 25px;
+    }
+     .w-75 {
+    width: 35%!important;
+    }
+     .footer h6 {
+    text-align: center;
+    }
+    .nav-link {
+    float: left;
+    padding: 0 7px;
+    padding-top: 10px;
+    }
+    .pic {
+    width: 200%;
+    margin-left: 15%;
+    }
+    .btn-custom {
+    margin-bottom: 10px;
+    }
+}
+@media(max-width: 420px){
+    .pic {
+    width: 225%;
+    margin-left: 10%;
+    }
+    .no-gutters {
+    margin-right: -30px;
+    margin-left: -30px;
+   }
+}
